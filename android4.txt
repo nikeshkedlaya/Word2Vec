@@ -1,0 +1,36 @@
+Sofia Flores
+Phoenix, AZ (123) 456-7891 sflores@email.com
+SUMMARY
+Creative and driven Lead Android Developer with 15+ years of experience architecting and building cutting-edge Android apps for mobile devices in the e-commerce, insurance, and car rental industries.
+
+EDUCATION
+CORAL SPRINGS UNIVERSITY
+Aug '01
+May '03
+Master of Science in Computer Science
+EXPERIENCE
+CLOUD CLEARWATER
+Lead Android Developer
+Sep '14
+Current
+Lead 10+ agile mobile developers in the design and development of new home insurance app
+Architect Android applications with MVP pattern and dependency injection using Dagger
+Launched Android app that maintains a 4/5 star rating in the Google Play store with 20K+ downloads
+CRANE & JENKINS
+Android Developer
+Aug '10
+Sep '14
+Built 20+ cutting-edge Android apps to streamline the customer shopping experience, including the company’s flagship app with 100K+ daily active users
+Implemented push notifications, which increased usage of mobile e-commerce app by over 40%
+Improved customer retention with loyalty, gamification, and geolocation features, including special offers for customers using the app in-store
+TRADELOT
+Android Developer
+Jun '10
+Mar '12
+Refactored major part of car rental Android app, improving app performance from 92% crash free sessions to 99.9%
+Reduced time it took for customers to rent a car by 10% during peak times with skip-the-line app feature
+Wrote maintainable and reusable Java and C++ code with a focus on security and privacy
+SKILLS
+Java, C/C++, XML, JavaScript, Python, Perl, Android NDK, Windows, Linux
+Expertise in full agile SDLC
+Mobile marketing and advertising

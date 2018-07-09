@@ -1,0 +1,88 @@
+Bob Brown
+Anytown, Ill.
+000.555.1212
+email@gmail.com
+BobBrown@socialmedia.com
+
+ Android Developer
+
+A pioneering and security-oriented developer offering more than two years’ experience designing, implementing, integrating, testing and supporting impactful applications developed in diverse, collaborative environments for mobile and tablet devices on the Android platform
+
+Career Highlights
+
+Created six user-friendly, aesthetically pleasing and fully functional applications for Android and iOs
+Known for writing efficient, maintainable and reusable code that preserves privacy and security
+Proficient in object-oriented design, data structures, problem solving, complexity analysis, and debugging
+Conceived, developed and implemented two ground breaking mobile banking apps for a major financial institution: http://play.google.com/store/apps/collection/<collection_name>
+Expert in the interaction between various devices and different versions of Android
+Regarded as a self-motivated and well organized team player
+Provided oversight and mentorship to a small team of developers
+Skills Summary
+
+OPERATING SYSTEMS
+iOS, Mac OS X, Android SDK, Windows, Linux, Unix
+TOOLS AND TECHNOLOGIES
+iOS SDK, Interface Builder, Android SDK, Core Graphics, Core Animation, Core Data, Cocos2D, TrollTech Qt, Eclipse, Metrowerks CodeWarrior, STL, Metrowerks PowerPlant, Metrowerks Constructor, Microsoft Visual Studio.net, .NET, MFC, Gnu C/C++, QuickDraw, QuickTime, OpenGL, OMF, Core Image, Bonjour, Carbon, Win32 SDK, NPAPI
+
+LANGUAGES
+Objective-C, C/C++, Java, JavaScript, C#, Perl, Ruby, Pascal, Eclipse IDE
+Soft Skills
+Communications, teamwork, organization, sense of urgency, leadership, fiscal responsibility
+
+Certifications
+Sun Certified Java Developer (SCJD)
+
+Miscellaneous
+Working knowledge of Agile methodology, RDBMS and ORM, SOA, XML-RPC, JSON and RESTful Web Services
+
+ Professional Experience
+
+Senior Android Developer, ABC Bancorp.                                   Jan. 2012-Feb. 2013
+
+Anchored the mobile development team for this regional bank. Worked with marketing and key executives to develop two cutting edge applications, which mobilized routine banking functions and enticed new customers, without jeopardizing data privacy or security. Established a formal review process to assess the viability, development and ROI of each project and presented those that offered the best return to the CIO.
+
+Tasks and responsibilities
+
+Conceptualized, designed, developed and deployed mobile applications for banking customers
+Developed update patches, modules and components to mitigate security risks
+Researched application acceptance and solicited feedback from users to boost adoption rates
+Wrote technical specifications and maintained all reports pertaining to application development process
+Communicated effectively with stakeholders to manage expectations
+Tested the application on various carriers like AT&T, Sprint and T-Mobile
+Selected accomplishments
+
+Spearheaded the design and development of CheckApp¹ and VIEWMYBALANCE¹
+Held weekly brainstorming sessions that spawned numerous ideas
+Generated more than $1 million in new fees and $15 million in deposits by attracting 2,500 new customers
+Reduced ATM and teller lines at peak hours by 8 percent through mobile banking functionality
+“Bob’s team not only delighted our customers but they exceeded our expectations for new revenue and security.” — Thomas Moore, CIO ABC Bancorp
+
+Android Developer, XYZ Gourmet                                                   May 2010-Jan. 2012 
+
+Worked with architects, engineering managers, business and product management teams to drive efficiencies and pursue new e-commerce opportunities for this savvy and growing e-tailer of gourmet food items.
+
+Tasks and responsibilities
+
+Partnered with product management team to create a road map
+Identified customer pain points and opportunities to exploit untapped markets
+Chaired technical design review meetings
+Responsible for application/system dependencies and deliverables
+Oversaw technical initiatives with complex interdependencies and high impact to the department or organization
+Launched internal processes to scale and hasten the application development lifecycle
+Built apps that communicate with RESTful services
+Selected accomplishments
+
+Accelerated the company’s expansion by creating 2 mobile applications utilizing XML-RPC and JSON
+Conceived, designed and implemented Gourmettogo, which boosted sales of high margin products by 15 percent
+Reconfigured MYFAVGOURMET increasing customer loyalty and repeat sales by 18 percent
+Integrated Facebook feature for easy sign on
+Provided guidance to executives on the future direction and bottom line benefits of mobile technology
+Education
+
+Bachelor of Science, Computer Science            University of Illinois at Urbana-Champagne
+
+ Professional Affiliations
+
+Organizer, Illinois Android Developer Meetup
+Discussion Leader, Android Development Forum www.Androidforum.com
+Presenter: Android Developers Conference 2012 mypresentation.slideshare.com

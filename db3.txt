@@ -1,0 +1,44 @@
+Ravin saxena
+Email ID: ****@gmail.com
+Contact No. +91-**********
+Career Objective
+To get a challenging position where I can put all my experience and knowledge to give a significant growth to the organization.
+Career Summary
+A logical, analytical thinker with excellent managerial skills possesses 2+ experience as a Database Developer.
+Extensive experience in writing stored procedures, functions and views.
+Extensive experience in writing and tuning complex sub queries, SQL, PL/SQL stored procedures, functions, and triggers.
+Experience in requirement analysis, coding and testing various modules in a software development life cycle.
+Expertise preparing report specifications and database designs to support reporting requirements.
+Good experience in PL/SQL and ETL scripting and query optimization.
+Personal Qualities
+Strong logical and managerial skills.
+Ability to produce the best result in pressure situations.
+Unmatchable communication skills in writing and verbal both.
+Ability to work individually as well as in the Group.
+Technical Skills
+Reporting Tools: Business Objects, Crystal Reports
+Designing Tool: Erwin Data Modeler
+Database: Oracle 10g/9i/8i, SQL Server 2005, MS Access
+Languages: SQL, PL SQL, Oracle Developer 2000, C, C++, HTML, Java
+Operating Systems: Windows95/98/2000/NT, MS DOS, UNIX
+Other Tools: TOAD, SQL Loader, SQL Plus, Query Analyzer
+Key Responsibilities Handled
+Created Oracle Tables, Views, Constrains, Synonyms, Sequences.
+Managed performance and tuning of SQL queries and fixed the slow running queries in production with utilities like Explain, Trace, and Stored Outlines.
+Worked heavily with relationship database models, schemas & entity-relationship diagrams (ERMs) to create technical/system design documents.
+Developed complex reports: multi-functioned, leveled and grouped, summary functionality in main reports providing detailed drill down through On Demand Sub-reports, dynamic link labeling, complex functions, cross-tabs, charts, shared variables, imported parameters and record sets from stored procedures, conditionally suppressed sections, error handling/messaging, clean and attractive designs, user friendly with instructional ToolTips.
+Worked with team on customizing the abilities of Crystal Enterprise such as exporting, previewing, printing and emailing reports.
+Load the data from MS Excel to Oracle Table and Oracle table to MS Excel.
+Loaded the data using the SQL loader, Imports & UTL files based on file formats.
+Achievements
+Presented many papers to many universities on database management.
+Received many awards and appreciation for the excellent work.
+Employers
+Working as Database Developer in ASD company from 2011 - present.
+Worked as Database Developer in SJSJ Technology from 2010 - 2011.
+Academia
+B.Tech in computer Science Engineering
+Diploma in Database Management
+Personal Details
+Languages Known: Hindi, English
+Address: HBBSJBJ

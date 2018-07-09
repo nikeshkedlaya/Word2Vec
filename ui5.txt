@@ -1,0 +1,37 @@
+Alison Blake
+123 Main Street, San Francisco, CA 94122
+
+Home: 000-000-0000 | Cell: 000-000-0000
+
+email@example.com
+
+Professional Summary
+Fully trained and experienced Web UI Developer with strong record of corporate client satisfaction. Highly proficient at all aspects of web commerce. Excellent ability to adjust work pace to meet evolving client needs.
+
+Core Qualifications
+Strong experience with interactive media design and Internet-ecommerce
+Exceptional proficiency with Spring/Hibernate and similar frameworks
+Superior knowledge of XML JSP XSL JavaScript HTML and other web UI technologies
+Thorough literacy in both Mac O/S and Windows environments
+Excellent oral and written communication skills
+High organizational skills
+Experience
+Web UI Developer7/1/2012 – Present
+Sunmoon Inc.Omaha, NE
+Maintained web content for Healthcare Management Portal.
+Reviewed all developing web pages.
+Anticipated issues and processes pertaining to configuration management.
+Maintained QA standard and minimized QA process changes.
+Recommended and implemented internal team process improvements.
+Web UI Developer5/1/2009 – 6/1/2010
+BelletrixLincoln, NE
+Created best practices and standards for design and coding.
+Built templates from wireframes mockups and comps.
+Collected site metrics for performance measurement.
+Enhanced existing web and mobile site services and created new services.
+Upheld project requests and deadlines.
+Education
+Master’s Degree – Computer Science2008
+University of NebraskaLincoln, NE
+Bachelor’s Degree – Computer Science2006
+University of NebraskaOmaha, NE

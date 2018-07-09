@@ -1,0 +1,60 @@
+Objective
+Innovative, creative and a proven team player, I possess a Tech Degree in Front End Development and have 6 years building developing and managing websites, applications and programs for various companies. I seek to secure the position of Senior Front End Developer with Orbits International and hope to share my skills, expertise and experience with your team and valuable clients.
+
+Strengths
+Tech Degree in Front End Development
+Bachelor’s Degree in Computer Science
+Proficient in HTML5, CSS 3, Javascript, AJAX
+Well versed with modern Javascript libraries – billboard.js, Flubber, Devicon, UI Kitten and Popmotion
+Adept in using Front End frameworks – Angular, Ember, React
+Keen understanding of responsive design principles
+Experienced in using Functional and Unit Testing methods
+Creative problem solver
+Possess a knack for teamwork and comfortable working cross functional
+Member of World Organization of Webmasters since 2015
+
+Work Experience
+Lead Front End Developer, 2015-present
+Concept One, Los Angeles, CA
+
+Responsibilities:
+
+Designs, develops and relaunches responsive websites and e-commerce sites of clients.
+An addressed issue on checkout counter terminations and improved conversion rate by 116%.
+Builds codes for Shadowboxes, Slider Carousals, Tickers, Rotating Headers, Validation and JS animations.
+Executes full-stack website launches specializing in front-end features, browser manipulation, and cross-browser compatibility.
+Oversees creation and maintenance of front-end standard documents
+Coordinates with copywriters and graphic artists on integration of images, icons, banners, audio and other features of the website
+
+Front End Developer, 2013-2014
+Think Tank Inc., San Francisco, CA
+
+Responsibilities:
+
+Launched 30 new website ad blogs incorporating the latest social media applications.
+Focused on developing websites using NoteTabPro, WS_FTP Pro, PuTTY and Dreamweaver.
+Upgraded systems application for maximum speed and scalability; average download speed of clients’ websites was 2.39 seconds which is faster than the 9.83 second average of top Google sites.
+Managed multiple projects with a team of backend engineers and QA from planning to website launch.
+Built and installed reusable codes and libraries for future reference
+Presented web-site mock-ups to clients to give them better visual of the end product and to ensure that all parameters were met.
+
+Junior Front End Developer, 2011-2012
+Online Factory, San Francisco, CA
+
+Responsibilities:
+
+Optimized front-end efficiency by shifting the blogs over to WordPress and brand-associated them to the main site.
+Created 75 multi-variant AB tests with increased win rate of 40%
+Resolved design issues through root cause analysis and performed data cleanups
+Utilized HTML, CSS, Javascript, SASS, Post-CSS, NPM, Node.js, Grunt, Yeoman and Git for e-commerce site development.
+Coordinated with team of UX designers to create new Web Content Management system
+
+
+Education
+Front End Development – Online Tech Degree
+Treehouse Tech Inc.
+2010-2011
+
+Bachelor’s Degree in Computer Science
+University of California, Los Angeles, CA
+2006-2010; GPA

@@ -1,0 +1,261 @@
+Over 7 years of experience in the area of software development for mobiles and web, which includes understanding requirement specification, working on software design, coding, testing and maintenance.
+Skilled in developing APIs for middle ware Framework modules for mobile platforms using Objective C.
+Experienced of working on iOS platform and frameworks and customizing it as per requirements.
+Undertaken full life cycle of mobile iOS Hybrid using Phonegap Application Development that includes testing on device and simulator as well.
+Having experience in developing hybrid applications in Phonegap and native plugin for hybrid applications.
+Having experience in Agile development methodology.
+Experienced in UX Design, can translate concept design into user interface on mobiles like iPhone, iPad iPod
+Expertise in using Design patterns and object oriented methodologies to design software for mobile phones.
+Experienced with Apple Approval Distribution Process, AdHoc Enterprise distribution.
+Experience of iPhone mobile application development and testing on device and simulator using x code and Objective C.
+Involved in various parse level application and well aware of parsing of SOAP, XML and JSON formatted services for iPhone and iPad.
+Was involved in Usability testing of the application during early releases of the application to modify any user experience elements to be changed.
+Worked on various architectures such as MVC, Singleton, Delegate and Notification patterns.
+Experience of using version control and bug reporting tools like clear case, clear quest, svn, tfs and git etc.
+Experience taking a project from scoping requirements through actual launch of application.
+Knowledge of professional software engineering practices and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.
+Experience providing prototypes / proof-of-concepts to the business content owners and users
+Experience in handling Web Services SOAP, XML, JSON RESTFUL.
+Worked on Core Data ability to write and troubleshoot SQLite Code and design managed Object context in objective C.
+Worked on latest versions of iOS 8.0 and Xcode 6.0, well versed with latest changes in the industry.
+Having basic Knowledge of Swift programming language.
+Having working experience on SDK development in iOS.
+Experience in Mobile Application Development Frameworks, Design Guidelines, design patterns and cross platform tools like PhoneGap /Cordova.
+Experience in using writing web technologies for mobile, which includes advanced Java script, HTML5, CSS3.
+Technical Skills
+
+Project Details:
+
+Confidential
+
+Role: Senior iOS Developer
+
+Technologies Used: Objective C, iOS 6.x, iOS 7.x, iOS 8.0, XCode 5.x, Xcode 6.x, Xcode 4.x, Kofax Mobile SDK, Core Data, Agile sprint planning, TFS, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, Core Data,
+With Kofax Mobile Capture , users can capture documents, photos, and data directly on their Apple iPhone or iPad and deliver the information to core business systems, processes or workflows. Capturing this information at the Point of Origination and delivering it to enterprise applications accelerates processes and reduces processing costs for better customer service. These new capabilities extend the investment in existing capture processes directly to the iPhone and iPad.
+Involved in implementing the application from requirements specified
+Used ARC to handle memory management efficiently.
+Used Encryption techniques RNCryption so as the content is not readable by other tools
+Used barcode reader library with multiple symbologies.
+Used Grand Central Dispatch GCD for background tasks.
+Confidential
+
+Role: Senior iOS Developer
+
+Technologies Used: Objective C, iOS SDK, XCode 4.x, Cordova 3.1, Corodva 3.4, JQuery Mobile 4.1, JavaScript, HTML5, CSS3, Kofax Mobile SDK, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, TFS
+Kofax Mobile Plugin for Kofax Mobile Capture SDK2.1 in your mobile app can be used to capture and process images and barcode data received from mobile devices. Along with the hybrid plugin, a sample PhoneGap app, demonstrating the plugin, is available in. The sample app can be used on iOS and Android devices.
+The sample app initially displays a screen that allows the user to select Kofax Mobile Capture and Kofax Mobile Barcode Capture controls.
+Involved in design and architecture of the hybrid plugin.
+Used ARC to handle memory management efficiently.
+Used JavaScript, JQueryMobile, HTML5 and CSS3 styles.
+Performed code integration and unit testing with the help of unit test and test apps.
+Used Grand Central Dispatch GCD for background tasks.
+Responsible for technical documentation on how to use the plugin to develop applications.
+Confidential
+
+Role: Senior iOS Developer
+
+Technologies Used: Objective C, iOS 6.x, iOS 7.x, XCode 4.x, Xcode 5.x, Kofax Mobile SDK 2.1, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, TFS, Agile Sprint Methodologies, SQLite3, Core Data, MVC Design Patterns,
+BankRight App is a combination of three components i.e., Bill Pay, Check Deposit and Driver's License.
+The Kofax Remote Deposit Capture module is used for processing images of bank check images captured, for example, with a mobile app. The component is primarily used to deposit checks. A bank accepts checks from customers for deposit. The checks are then submitted for processing and the required data is extracted from them.
+The Kofax Remote Pay Bills module is used for processing images of bill images captured, for example, with a mobile app. The component is primarily used to pay the bills like utility, power, telephone and gas bills etc. The bills are paid using the bank account. The bills are then submitted for processing and the required data is extracted from them.
+The Kofax Remote Drivers License module is used for processing images of license front and back images captured, for example, with a mobile app. The component is primarily used to create account with bank with the help of the information on the Drivers license.
+Involved in implementing the application from requirements specified
+Involved in the low level and high-level design of the application.
+Used barcode reader library with multiple symbologies.
+Used Grand Central Dispatch GCD for background tasks.
+Confidential
+
+Role: Application Developer
+
+Technologies Used: iOS 5.x, XCode 4.x, RESTFUL Web Services, In-App Purchase, Apple Push Notification, Address Book, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, SVN, JSON Parser.
+Agree On The Go is an iOS app for the end users to sign and send NDAs and many other agreements via mobile rather than using traditional hard copy transactions. Agree on the go App is one of the best applications of its kind iNDA, NDA, Legal-Ease: Non Disclosure Agreement Simple NDA, Sign Here, Soft Sign and more , supporting NDA transactions in mobile, with parties either residing at same location or at remote locations.
+Technical Roles and Responsibilities:
+
+Design and development of UI Handling, Views.
+Implemented the In-App Purchase, Apple Push Notification Functionality.
+Integrated Social Networking Sites Facebook, Twitter and Gmail .
+Worked on user gesture detection
+Involved in developing UI components / Outlets for the application screens.
+Involved in handling web services and parsing the response data.
+Used JSON parser to parse the response data.
+Used Story boards to design application screen flows.
+Resolved bugs at various stages of application development.
+Worked under Agile planning, and completed expected deliverables on time for every sprint.
+Performed unit testing and Performed profiling on the application to check on the memory usage of the application.
+Performed profiling on the application to check for any possible memory leaks.
+Used SVN for version controlling the code base and securing the source code
+Confidential
+
+Role: Application Developer
+
+Technologies Used: Objective C, iOS 5.x, iOS 6.x, XCode 4.x, QR Code Reader, MapKit API integration, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, SVN, Gesture Recognition, RESTFUL Web Services, JSON Parser.
+Hoover offers rentals of their advanced Liquitrac technology, which provides real time
+GPS tracking of the container and level monitoring of the liquid contained inside. The current application is an extension of the existing desktop application. The application provides the tank details and Global location of the tanker.
+Technical Roles and Responsibilities:
+
+Involved in analysis, design and development of the application
+Involved in designing user Interface for the application for the mobile devices iPhone
+Developed Application using XCode with MVC Architecture
+Worked to make the application compatible with multiple iOS versions.
+Resolved the UI design issues for multiple versions of iOS.
+Used Outlets for developing application screens.
+Implemented User Authentication
+Used MapKit for identifying and updating the tanker location with global coordinates
+Used CorePlot to draw the graphical representation of the tank liquid level
+Used RESTFUL web services with JSON to get the tanker information from the server
+Used SVN for version controller.
+Performed profiling on the application to check on the memory usage of the application.
+Performed profiling on the application to check for any possible memory leaks.
+Confidential
+
+Role: Application Developer
+
+Technologies Used: Objective C, iOS 5.x, iOS 6.x, XCode, Video streaming techniques for iOS, Reading RSS Feeds in iOS, XML Parser, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, SVN, Agile Sprint Planning, SQLite3, Core Media framework
+NewsEagle360 is a US based media service, built a website newseagle360.com to bring the very best and latest in business news, political news, technology news, sports news, world news, living news, election news, living news, and Editorials. Every video clip news item is presented as a movie clip instead of text. The current application for iOS platform is an extension of the existing web application, where the users can watch the latest news clips on their iOS device iPhone, iPad, iPod .
+Technical Roles and Responsibilities:
+
+Involved in analysis, design and development of the application using XCode
+Involved in designing the wire frames and user interface and user interaction design for the mobile application
+Developed application using XCode
+Used Media framework AVFoundation, MPMediaPlayer to play the news video clippings
+Used Customized UI Framework for better user interface design for mobiles
+Used XML Parsing for parsing the RSS feeds from the client website.
+Used multithreading and back ground tasks with the help of
+Used Lazy loading for the fast loading of the thumbnails in the application
+Involved in uploading the application to the Apple portal
+Created Developer and distribution certificates during testing and uploading the application
+Distributed and tested the application using Adhoc Distribution Testflighapp.com
+Confidential
+
+Role: Application Developer
+
+Technologies Used: Objective C, iOS 6.x, XCode 4.x, Mac OS X, Agile Sprint Planning, RESTFUL web services, JSON Parser, RSS Feeds, Just In Mind design tool, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, SVN, SQLite3
+Confidential leading Usenet provider serving the countries USA UK. Provides Usenet, and VPN. The current application is extension to the existing web application, where user can manage their Usenet account from their smart phone. The app is a universal app and supports three device orientations.
+Technical Roles and Responsibilities:
+
+Involved in analysis, design and development of the application requirements
+Involved in designing wireframes and creating User Interface for the application for mobile devices IOS, iPhone, iPad
+Used RESTFUL Web services in JSON to get the user account data from the server
+Used Core Plot to draw the graphical representation of the user account usage
+Used XML parsing to read the News Demon blog feeds
+Used HTML to load the blog page
+Involved in testing the application using Adhoc distribution and through TestFlight app.
+Involved in uploading the completed application to the apple portal.
+Confidential
+
+Role: Application Developer
+
+Technologies Used: Objective C, iOS 5.x, iOS 6.0, XCode4.x, XML Parser, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, SVN, Justin Mind Design Tools,
+Background processing Techniques.
+The App displays the dentist list in United States depends up on the area code, radius, and category. On selecting of a particular dentist the app will display the contact information of dentist. From the App we can call, E-mail, add the review and view the review .We can share the contacts details of a particular dentist to any of our buddies through E-mail.
+Technical Roles and Responsibilities:
+
+Worked on UI Design for the mobile devices iPhone
+Developed the application as per the UI design given by the UX team
+Involved in complete development of the application as per the client requirements
+Used Outlets to build the screen of the application
+Supported device orientation of the application by creating multiple outlets based on the orientation.
+Worked on XML parsing.
+Used background processing for low priority time taking tasks
+Unit tested the code
+Resolved bugs at various stages of application development.
+Made the application compatible with other i devices iPad iPod etc .
+Involved in Testing the application such that it is free from memory leaks
+Performed profiling on the application for any possible memory leaks
+Fixed Bugs at several stages of the application development.
+Involved in placing the application in to the iOS App Store.
+Involved in usability testing of the application.
+Confidential
+
+Role: Application Developer
+
+Technologies Used: Objective C, iOS 5.x, iOS 6.0, XCode 4.x, JSON, Mobile app design guidelines, Object Oriented Design Concepts, RESTFUL Web Services, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, SVN, Justin Mind design Tool
+The App will display the types of surgeries in the first screen for ex: body, face, skin, and breast. On selecting a particular surgery we will get sub procedures of the surgery and description, videos of the surgery. On selecting the appointment button, calendar will be displayed and the app shows the convent timings of the doctor. On selecting of the particular time we will get an appointment form to be filled and we will get an E-mail regarding the confirmation of the appointment.
+Technical Roles and Responsibilities:
+
+Worked on UI/UX Design for mobile devices iPhone .
+Involved in in application design and development
+Worked on using Web services for fetching the date from server
+Involved in JSON parsing for getting the data from the server.
+Used Core Graphics Framework in the App.
+Performed profiling on the application to know the memory consumption of the application.
+Involved in testing the application such that it is free from memory leaks.
+Fixed Bugs at several stages.
+Involved in Bug Review Meetings to analyze the nature of the bugs raised.
+Confidential
+
+Role: Application Developer
+
+Technologies Used: iOS 5.x, iOS 6.0, Objective C iOS, XCode 4.x, RESTFUL web services, JSON Parser, SQLite3, Agile Methodologies, Cocoa Framework, iPhone Simulators, Cocoa Touch frameworks, SVN, Justin Mind design Tool
+Slack is music streaming application design for downloading and accessing music on the mobile. The application enables the user to stream and download music through the application on their mobile phone. Developed as a Universal app.
+Technical Roles and Responsibilities:
+
+Involved in developing
+Involved in implementing the application for mobile devices iPhone, iPad
+Used SQLite to store the downloaded media in the device
+Used Encryption techniques RNCryption so as the content is not readable by other tools
+Used multithreading to download the media asynchronously
+Used Grand Central Dispatch GCD for background tasks
+Used Media Player Framework for playing the downloaded media
+Used RESTFUL web services with JSON to download content from server
+Involved in design and architecture of the application
+Worked on MVC pattern applicable to the application
+Conducted Usability testing of the application
+Worked on developing the application that, it meets platform specific design guidelines
+Used custom control search bar to search for items user want to listen
+Verify User login
+Confidential
+
+Role: Application Developer
+
+Technologies Used: Magento, PHP, MySQL, JavaScript JQuery BestMassage.com is an organization passionate about health and well-being, and dedicated to building long-lasting relationships with fully satisfied, valued customers.
+
+Technical Roles and Responsibilities:
+
+Installed Magento on the live LAMP server.
+Developed Magento theme as per the client's requirements.
+Developed Contact Us, Email to friend, Custom Order CSV export custom modules.
+Integrated custom stock status, order delete, banner slider, jacarousal slider and featured product extensions.
+Monitoring day-day activities and reporting to the management.
+Monitoring logged users globally.
+Installed additional languages like Canadian and Mexican.
+Worked on Magento upgrades to the latest versions.
+Providing daily support to all the websites.
+Website Health Check and performance Monitoring.
+Worked on MySQL backup and restore.
+Confidential
+
+Role: Application Developer
+
+Technologies Used: Magento, PHP, MySQL, JavaScript JQuery
+
+Technical Roles and Responsibilities:
+
+Installed Magento on the live LAMP server.
+Developed Magento theme as per the client's requirements.
+Installed and Configured TBT Enhanced grid, ePay, Dull Uploader, Magento Easy Lightbox, ArtsOnIT Offline Maintenance, Asperience Delete All Orders, EM DeleteOrder, Yoast MetaRobots extensions, AW Featured products, AW Ajax Catalog, Easy Lightbox, Ecom Dev Product page shipping, EM Blog, EM Megamenu, FB Integrator, OneStepCheckout on the Magento installation.
+Installed language like Danish onto the online store for English to native Danish translations.
+Daily website health check, resolving the issues and directing functional issues to respective teams.
+MySQL backup and restore.
+Worked on Magento upgrades to the latest versions.
+Exported and Imported Customers and Catalog Products as per the client's requirements.
+Confidential
+
+Role: Application Developer
+
+Technies. Encompass with a powerful discipline spirit, these creative processes will manifest into our daily life with total freedom of expression. All these manifestation should happen beautifully with the ultimate pure creative energy.
+
+Technical Roles and Responsibilities:
+
+Involved in requirement analysis
+Involved in all the phases of the project development.
+Installed Magento on the live LAMP server.
+Developed Magento theme as per the client's requirements.
+Installed and configured additional modules on the Magento installation.
+Daily website health check, resolving the issues and directing functional issues to respective teams.
+MySQL backup and restore.
+Developed CSV to import products on to the Magento store in bulk.
+Installed and configured Payment modules on to the website.
+Monitoring day-day activities and reporting to the management.
+Monitoring logged users globally.
+Providing daily support to the website.

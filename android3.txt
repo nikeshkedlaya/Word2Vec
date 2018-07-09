@@ -1,0 +1,31 @@
+Cody Fredrickson
+Raleigh, NC (123) 456-7891 cfredrickson@email.com
+SUMMARY
+Innovative Android Developer with 3+ years of experience designing, developing, testing, and maintaining Android applications in the sports entertainment industry. Built core features for app with 50K+ downloads.
+
+EDUCATION
+GREEN VALLEY STATE
+Aug '10
+May '14
+Bachelor of Science in Computer Science
+EXPERIENCE
+River Tech
+Android Developer
+Jan '17
+Current
+Conceptualize, develop, and test native Android applications, including UI, core functionality, and third-party SDKS
+Deployed beta version of fantasy sports gaming app, which helped to identify bugs, user experience issues, and functionality problems
+Created successful proof of concept (POC) for NHL statistics Android app that is currently in production
+CRANE & JENKINS
+Android Developer
+May '14
+Jan '17
+Designed and developed core features for a real-time sports score Android application using Java (currently available in the Google Play store)
+Built Android apps with back-end API integration to improve the customer experience and cut down on development time
+Integrated Facebook login feature for fantasy football score tracking app, which increased app usage by ~20%
+SKILLS
+Java, C++, Python, Xamarin, Android SDK, XML, SQL
+Mobile app monetization
+Agile methodology
+AWARDS
+2016 Crane & Jenkins Hackathon, 2nd place (out of 50+ participants)

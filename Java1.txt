@@ -1,0 +1,142 @@
+Having 7 years of IT experience in Object Oriented development, testing, and support of Enterprise applications using J2EE technologies
+Experienced in all phases of SDLC including analysis, design, coding and testing, expertise in integration using J2EE architecture
+Extensive experience in Use cases development, Design, Object/Service modeling using UMLmodeling
+Expertise in requirements and systems analysis through deployment using tollgate and agilemethodologies
+Expertise in J2EE Technologies: JSF, XML, EJB, JSP, Servlets, JMS, JNDI, JDBC, Java Script, Swings, Hibernate
+Expertise in Tools: Eclipse, Rational Application Developer RAD
+Expertise in software: Web sphere, Tomcat, Oracle, and Apache.
+Responsible for designing, implementing, and maintaining complex software systems with stringent up-time requirements
+Experienced in all phases of SDLC including analysis, design, coding and testing, expertise in integration using J2EE architecture
+Experienced with J2EE standard compatible Application Servers includingWebLogic, IBM Web sphere, Apache Tomcat Deployment process and Integration.
+Worked extensively in J2EE JSP, Servlets, JDBC , Struts, Spring, MVC, Hibernate, Java- Networking, RMI, Web Sphere, XML and well versed withOracle database, OS Concepts.
+Well experienced with visual rapid application development tools like WebSphere Studio Application Developer WSAD , RAD, Eclipse and NetBeans.
+Excellent handle in Struts2, Struts1.2 and Spring framework.
+Experience using Spring Framework modules like Spring Core container forDependency Injection, Application context, Spring ORM and POJO objects.
+Excellent handle in O/R mapping tools Ibatis, and Hibernate.
+Experienced in design and connectivity of the database in DB2, Oracle and SQL Server 2000.
+Hands on experience implementing Command, Data Access Objects, Value Objects,Business Delegate and Service Locator patterns.
+Experience in implementing Agile methodology.
+Excellent in project documentation, logical and analytical abilities.
+Posses good inter personal skills and self-learning attitude
+
+Languages
+
+Core JAVA JDK 1.4, 1.5 and 1.6
+
+Web Development
+
+Servlets, JSP
+
+Operating Systems
+
+Windows, UNIX, LINUX
+
+Development Tools
+
+Eclipse 3.2, PL/SQL Developer tool 5.1, Toad 8.5
+
+Servers
+
+WebSphere, Apache Tomcat 5.9, Web Logic
+
+Databases
+
+Oracle 10gclient, 9i , MySQL Server 5.0., Sybase
+
+Frameworks
+
+Springs, Struts, Hibernate
+
+Version Control
+
+SVN
+
+Involved in coding, testing and creation of functional specs of enhancement application.
+Performing Code reviews with the team.
+Preparing builds, deploy and Co-ordinate with the release management team to ensure that the proper process is followed during the release.
+Providing End to End support for the testing activities during System Testing, UAT.
+Maintain EAR and WAR in IBM WebSphere Apps server.
+Maintain source code using SVN.
+Providing End to End support for the testing activities during System Testing, UAT.
+Developing the web applications using Core Java Threading and Collection .
+Preparing technical documentation of the application.
+Responsible for closing the backlog of production related issues
+Responsible for effective communication between the project team and the customer. Provide day to day direction to the project team and regular project status to the customer.
+Review system requirements, establish specific solutions, and leading the efforts including programming and testing that culminate in client acceptance of the results.
+Interacting with the clients for the new enhancements to be done.
+Developing the web applications using Springs, Hibernate.
+Preparing technical documentation of the application.
+Responsible for closing the backlog of production related issues.
+Responsible for effective communication between the project team and the customer. Provide day to day direction to the project team and regular project status to the customer.
+Interacting with the clients for the new enhancements to be done.
+
+Involved in Analysis Design of the Reference Data Management.
+Created and consumed WSDL for soap based web services.
+Used RESTful web services to expose certain functionalities of the application.
+Used JAX-RS plus jersey implementation for restful webservices.
+Created hibernate-config.xml and configured the hibernate2.0 for the application.
+Configured hibernate with spring.
+Used Spring Dependency Injection feature for Bean wiring
+Used Spring integration with struts and hibernate
+Created Object-Relational mapping using Hibernate3.0.
+Used Hibernate Query Language HQL to query the database for complex data.
+Used Struts for Web tier development and used the Struts tag library.
+Created screens by assembling Struts Tiles: header, footer, menu, body and defined common page layouts, menu layouts, and use them by passing lists of items and links. Reuse existing layouts using inheritance.
+Implemented Jquery, Ajax, DOJO for asynchronous communication with server providing better user experience
+JavaScript was used for the client side validations
+Implemented Spring transaction management for some database transactions
+Used log4j to capture the log that includes runtime exceptions and debug
+Used Agile software development methodology on Spring framework.
+Wrote Tiles Controller to control the display of Tiles.
+Used mainly Dispatch Action to control the wizard navigation.
+Used Singleton Pattern in manager objects to maintain only one object of them in memory.
+Used log4j for writing into Application and Error logs.
+Used LDAP for authentication.
+Involved in fixing the security regarding issues.
+Used Ant build tool.
+Developed the front end using JSP and HTML, CSS
+Involve in DAO Data Access Objects to retrieve data from database.
+Architectural, technical and functional understanding of the interfacing modules. Involved in different activities like design, deployment, unit testing and test case creation. Build and release co-ordination for different modules.
+Defect fixing of the errors caught in the development, unit testing and QA phase
+Used Eclipse3.0 as IDE and Harvest as version control system.
+
+The basic framework is designed based on the MVC architecture for all core functionality.
+Developed Form Beans, Action Class Action Mapping Using Struts.
+Developed different screens Case, Accounting and Judicial Officers Screens converting into Struts frame work tags CCMS Module.
+Analyzing the transactions with reduce the time for each transactions.
+Analyzing the business logic implementation code for each transaction.
+Developed the JSP pages and CSS to different screens to CCMS.
+Worked on SQL Scripts for Data Access such as selection, Insertion and Deletion, Joins of Data from Oracle Databases
+Clear Case has been used as the version control system.
+Created View and Domains, Framework Jar files using Clear Case.
+Each Transactions check status in Stress Database and Run SQL Scripts of each transactions meeting SLA for Transactions or Not.
+Jrockit tool used for analyzing the transactions.
+Analyzing the response buffer tables for each transaction.
+Environments: Java, J2EE, JDBC,Struts, JSP, Servlets, EJB2.0, UNIX, putty6.0, weblogic10.3, Oracle10g, Eclipse, VPN client, TOAD, Clear Case, Jrockit 160 05
+
+Design and develop user interfaces using JSP, JavaScript and HTML
+Implemented unit tests and code reviews using Junit.
+Worked creating a shared library of JavaScript, which can be shared across different applications
+Developed additional UI Components using JSP and implemented an asynchronous, AJAX and JQuery based rich client to improve customer experience.
+Worked on front-end validation through JavaScript and back-end validation using Spring Validation Classes
+Implemented trade creation using HTML5, JavaScript validations and used AJAX for asynchronous communication.
+Used CSS3 Borders and jQuery Menus as part of the UI navigation.
+Migrating and deploy the application on Tomcat server.
+Performed code review and test cases review for the developed features.
+Designing the project flow in UML
+Environment: Java/J2EE, MVC, JSP, JDBC, JavaScript, JQuery, CSS, AJAX, XML, UNIX, MVC, JDBC, JSF, SQL, Eclipse.
+
+The basic framework is designed based on the MVC architecture for all core functionality. Developed Business logic using Spring and Hibernate
+Developed different screens Dispatch Summary and Planning Screens in Transportation Module.
+Developed the business logic using Spring and Hibernate different statistics and information in Dispatch Summary screen that will help them make better decisions for mangers
+Developed the JSP pages and CSS to different screens to Transportation module in Fresh direct
+Black hole property set to the Transportation Application
+Worked on SQL Scripts for Data Access such as selection, insertion and deletion, joins of data from Oracle database
+Plan generation different routers in Transportation Module.
+Used Agile Development methodologies like Scrum
+Used Junit for testing each class.
+SVN has been used as the version control system.
+Developed Dispatch controller using Spring MVC.
+Converted Asset and Route and truck screens Extreme component into JMESA component.
+Developed the business logic displayed data will be an employee's last name followed by a comma followed by their first initial followed by the first letter of their job type role in parentheses
+Environment: Java ,J2EE, JDBC, JSP, Servlets, Spring3.0, Hibernate3.0,Unix, putty6.0, weblogic10.3,Oracle10g,Eclipse ,VPN client, TOAD, JMESA, SVN.

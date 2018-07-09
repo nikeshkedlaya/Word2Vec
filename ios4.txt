@@ -1,0 +1,126 @@
+Personal data:
+
+Name: Steve iOS Developer
+Birth: 2-nd November 1987
+Email: ios-mobile-developer-app@apple - ios- mobile - arp . Com
+Phone number: 1111 2222 4444 1111
+Address: Apple Street 2013, Denver
+
+
+Education:
+
+2010 - today
+iOS University
+iOS programming and applications developments
+pad, iPhone, iPod specifications and differences
+
+
+
+2005 - 2008
+Colorado University
+SW Development and Programming Faculty
+Thesis: The Visions of Mobile Application Development
+Nokia Mobile Developer Talent 2006 - Winner
+
+
+
+2001 - 2005
+Denver SW Programming School
+SW Development (Java, C++, C, SmallTalk)
+
+
+
+Job Experiences:
+
+2012 - today
+Mobile Applications for Apple Products, ltd.
+New York
+Office applications for iPad and iPhone platform
+
+iOS Developer
+(data store and sales interfaces on iOS applications)
+Cocoa Touch, Message UI Framework, Address Book UI Framework, Event Kit UI Framework
+
+
+
+2011 - 2012
+Mobile for Publishers
+San Francisco
+Interfaces for mobile devices in publishing business
+
+iOS Software Engineer / Developer for Apple Devices
+(iTunes applications for newspaper publishers)
+Core Text, Image I/O, Core Graphics (Quartz), Core Animation
+
+
+
+2009 - 2010
+Bears Developers, ltd.
+San Diego
+IS and SW development
+
+iOS Programmer /Mobile Devices Developer
+(mobile games for iPhone)
+iOS media layer, Core Media, Store Kit, Game Kit Framework
+
+
+
+2007 - 2009
+WfU - Webs For Users
+Denver
+Users friendly www pages development
+
+PHP and Java Developer
+(Java, PHP programming)
+W3C Standards in Java and PHP web servers applications
+
+
+
+2005 - 2007
+Data Ware House, ltd.
+Denver
+IS development
+
+Tester, C Programmer
+(temporary job, programming and sw testing)
+
+
+
+Courses and Trainings:
+
+iOS programming I, II, III
+MAX OS X for Developers
+App Store for Programmers
+Mobile Games Programming
+Multimedia for iOS
+Cocoa Touch Frameworks
+iOS Core OS Frameworks
+iOS Multimedia Programming
+Game Kit Framework for Professionals
+Android and iOS Applications Development
+iOS and SQL Technologies
+W3C and WWW Standards
+
+Apple and iOS Knowledge:
+
+iOS - Core OS - Accelerate, External Accessory and Security Framework
+iOS - Cocoa Touch - Message UI, Map Kit, Game Kit, iAd,Event Kit UI and Address Book UI Framework
+MAC OS X, App Store
+
+Languages Knowledge:
+
+English - native
+Spain - passive
+
+Skills and Abilities
+
+Game Mobile Developer certificate
+App Store Developer certificate
+
+Hobbies:
+
+Steve Jobs, Steve Wozniak and Apple History
+Cycling and Olympic Triathlon
+RC Airplanes
+
+

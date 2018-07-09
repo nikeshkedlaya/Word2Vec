@@ -1,0 +1,73 @@
+Shanti XXXX
+Mobile: 78******
+Email: shanti******@gmail.com
+CAREER SUMMARY
+X years of industry experience, including X yrs of Oracle DBA/Oracle Applications DBA Experience.
+Current Company: XXXX InfoTech Pvt. Ltd.
+Expertise in Oracle 11i, R12 Apps Installations, applying Patch Sets, System Administration, Cloning, Database and applications guard configuration.
+Upgrades of database from 9i to 10gR2, Database Patch up gradation.
+Experienced in installing, creating Oracle databases in different platforms like Sun Solaris, Red Hat Linux, Oracle Enterprise Linux, Windows 2000/2003/NT etc.
+Patch Applications on TEST & Production environment.
+Auto Config, Rapid clone implementation.
+Regular Cloning/DB Refresh activities.
+Sound knowledge of backup, recovery strategies.
+Backup & Restoration of Oracle Apps environment (Cold Backup, Hot backup)
+Troubleshooting experience in 11.5.X, R12 environment
+Involved in daily DBA Activities like Instance Monitoring.
+Implementing security measures and preparing documentations.
+Worked in 24x7 environments.
+Sound knowledge of effective using Metalink.
+Writing Shell Scripting, Batch Files for automation.
+Co-coordinated with Oracle Corp. in case of any technical issue resolution through SR.
+Knowledge to work with features like Flashback, ASM, RMAN etc
+TECHNICAL SKILLS
+Databases: Oracle 8.x, Oracle 9.x, Oracle 10gR2, MySQL
+Operating System: RedHat Linux AS 2.1, 3.0, 4.0, 5.0, Sun-Solaris 5.8, 5.10, UNIX, Windows 95/98/2000/2003 server and XP
+Productivity Tools: Oracle discoverer 9i, 10g (Admin – Desktop), SQL*Plus, OEM 9i, 10g, Export/Import, TOAD 9.5, Middleware
+Web Technologies: Oracle application server (9i, 10g), Apache etc.
+ERP Tools: Oracle Applications EBS 11i, R12, Oracle collaboration suite.
+Development Tools: Web Tech
+PERSONAL QUALITIES
+Good communication skills.
+Hard working.
+KEY RESPONSIBILITIES HANDLED
+Oracle application multimode cloning (Multinode to Multinode) With Shared Appl Top.
+Oracle applications cloning (From multinode to single node).
+Oracle applications ATG RUP 5 patch application, applying CPU patches, Database patches and database maintenance activities etc.
+Working with Email Center, Oracle applications server 10g, Oracle Discoverer.
+Troubleshooting and monitoring working with Metalink etc.
+Database auditing, Tkprof, securing E-Business Suite.
+Troubleshooting Email Center.
+Cloned Oracle Apps instances using Rapid clone.
+Maintaining Oracle Applications using administration utilities.
+Applied CPU (Critical Patch Updates) for security.
+Trouble Shooting Work Flow related Errors.
+Migration from 8i to 10g
+Forms Server Load Balancing in Oracle Apps (11i)
+SSL implementation in Oracle Apps (11i)
+DR Configuration.
+Manual cloning of Apps instance.
+Adding node.
+KEY PROJECTS UNDERTAKEN
+1. Client:- XXXX Pvt. Ltd. Configuration, Maintenance and support (Mumbai)
+Role: Oracle DBA/Oracle Applications DBA
+Operating System: Solaris 10, Solaris 8, RHEL-AS4, RHEL-AS5, Window 2003 & 2000 Server
+Skills: Oracle 8i, 9i, 10g, Oracle applications 11i, Oracle applications server 10g etc.
+Environment: Oracle Applications 11.5.10.2, Oracle 10gR2 DB, Oracle 8i
+
+2. Client:- XXXX Pvt. Ltd. Configuration, Maintenance and support
+Role: Oracle DBA/Oracle Applications DBA
+Operating System: RedHat AS4
+Environment: Oracle Applications 11.5.10.2, RedHat AS4.
+ACHIEVEMENTS
+Got "Employer of the Month" award in 20XX.
+Implemented X projects.
+EMPLOYERS
+1. XXXX since Jun 20XX
+Job title: DBA
+
+2. XXXXX from Dec 20XX to May 20XX
+Job Title: DBA
+ACADEMIA
+B.E. Information Technology from University XXXX.
+Diploma in Computer Engineering from Institute XXXX.

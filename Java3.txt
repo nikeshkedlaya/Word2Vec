@@ -1,0 +1,52 @@
+Don R. Moffat
+2312 Brookside Drive
+Birmingham, AL 35222
+Phone: 205-383-4400
+Email: drmoffat@freemail.com
+Career Objective:
+
+Looking for a Java Developer position with "Sharp Technologies," to work in different projects from developing and maintaining of computer programs and websites.
+
+Summary of Skills:
+
+Experience of developing apps and computer programs for multiple platforms and mobile phones
+Experience with Agile environment and Java development
+Skilled in working on front-end and back-end of websites
+Experience of Websphere, Jboss, JSP, Core Java, and Struts, XML, XSLT
+Excellent communication, problem solving, and coordinating skills
+Strong debugging, troubleshooting, and code performance tuning
+Technical Skills:
+
+Programming: Java, Java J2EE, Java Swing, C++, C#, Python Perl, XML, XHTML, SQL
+Operating Systems: Mac OS, Linux, UNIX, Windows, Solaris
+Database: MySQL, MS Access, Oracle, RDBMS, Lotus Notes
+Web Technologies and Development: Websphere, JBoss, Spring
+Work Experience:
+
+Java Developer
+Antonio Technologies, Birmingham, AL
+October 2014 - Present
+
+Reviewing and modifying website architecture using Java programming language
+Designing, developing, and updating company's website using CSS, Dreamweaver, and Javascript
+Designing and developing computer programs incorporating all business specifications
+Modifying existing systems by making changes in code
+Resolving programming issues and documenting modules and programs
+Modifying web page layouts and updating user interface
+Java Developer
+Martin Technologies, Birmingham, AL
+February 2013 - September 2014
+Developed, optimized, and modified computer applications
+Tested all types of computer programs and automated testing procedures
+Designed and developed software programs for mobile phones, desktop, and laptops
+Created applets for caching on mobile handset browsers
+Integrated Java and other programs to develop multi-functional web services
+Created and tested prototypes of mobile banking applications
+Education:
+
+Bachelor's Degree in Computer Science
+ABC University, Birmingham, AL
+2010
+Advanced Diploma in Java Development
+Jackson Technical Institute, Birmingham, AL
+2012

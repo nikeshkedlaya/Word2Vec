@@ -1,0 +1,130 @@
+Profile
+During the last seven years, Mario  has  mainly  focused  on  research  and
+development of SOA and  backend  technologies  In  particular,  Javabased
+ESBs, application  servers,  eventbased  systems,  SCA,  webservices  and
+databases He has also a strong focus on providing software  solutions  for
+SMBs, working directly  with  clients  to successfully improve  their  core
+businesses
+
+
+Work Experience
+
+Red Hat Consultant, Cordoba, Argentina (04/2011  Current)
+  Configuration Management Engineer: Migration of legacy services to  JBoss
+   technology
+     Definition, configuration and administration  of  Continuous  Delivery
+      (continuous integration and continuous deployment)
+     Technologies: Jenkins, git, Java, Maven, ant, Sonar
+  Sr Developer: JBoss Switchyard
+     Fulltime contribution to embryonic Red Hat open source project called
+      SwitchYard (JBossESB evolution)
+     Switchyard and Apache Camel integration
+     Forge commands definition and implementation
+     Definition and implementation of regression testing strategy for Forge
+      integration
+     Technologies: git, Java, XML, Drools, jBPM, Forge, Maven,  Arquillian,
+      Camel
+
+Intel, Cordoba, Argentina (06/2006  04/2011)
+  Team Leader: Engineering Support Area (11/200904/2011):
+     Achievement: Defined objectives, tools, processes and SLAs of a  newly
+      created Engineering Support area for a high availability  multiclient
+      backend platform Provide proactive and reactive  level3  support  to
+      five different usbased clients using the platform
+     Responsibilities: Technical leader,  selector,  coacher,  trainer  and
+      coordinator of four team members  Planning,  execution,  control  and
+      reporting of the area Platform monitoring, issue tracking  and  issue
+      solving within SLAs
+     Technologies: Splunk, SQL Server, SOAP, Net, Jira
+  Different roles in Multiple Engineering Projects (06/200611/2009):
+     Technical Leader: Definition and development of  the  backend  logging
+      strategy for  a  distributed  serviceenabling  platform  (Net,  Net
+      Enterprise Library, Splunk)
+     Research  Leader:  Definition  of  a  package  structure  for  service
+      delivery platform
+     Definition, development, deployment and showcase of a cloud  computing
+      infrastructure   prototype   for   automatic   provisioning   of   SOA
+      applications using SCA, Java, CIM, Xen and Nagios
+     Tech leader and  mentor  of  two  different  internship  projects  (a
+      Migration from Ant to Maven, b Net MEF Research)
+
+
+
+
+SAP Labs, Palo Alto, CA, USA (06/2005  12/2005)
+  Research Internship:
+      Achievements:  Definition,  evaluation  and  demonstration  of   data
+      replication and federation database  technologies  for  a  distributed
+      ubiquitous computing infrastructure (C,  C++,  MaxDB,  SAP  Netweaver,
+      PThreads)
+     Integration of a smart tag library with a Java GUI (Java, JNI)
+
+
+Entrepids SA, Buenos Aires, Argentina (12/2003  05/2004)
+  Software Engineering Intern:
+     Achievements: Implementation of business logic and user  interface  of
+      an eCommerce website for the largest candy maker in the world (Arcor)
+     Responsibilities:  Backend  API  definition,  Data  model  definition,
+      backend developer, frontend developer
+     Techs used: J2EE, Websphere, Hibernate, Struts, Portlets
+
+
+Personal Projects
+
+Apache Tuscany committer (SCA implementation):
+  Key achievements: creator, promoter  and  implementer  of  a  marketplace
+   sample application in Tuscany's distribution Evangelization  of  Tuscany
+   in a technical talk in JavaOne 2008 in San  Francisco  for  1000  people
+   Apache Committer
+
+Book author:
+   "A  High  Level  Pub/Sub  Layer  for  Open   Distributed   Heterogeneous
+   Environments: The ConceptBased Approach" (ISBN: 9783639052282)
+
+
+Entrepreneurial achievements:
+  Homebanking system for brokerage firm  Web 360 Feedback System  for  HR
+   Consulting firm  Different ETL tools for Telemarketing firm  CRM system
+   for scrivener office  Web accounting system for brokerage firm   Online
+   remote backup service owner
+  Technologies:  SmartGWT,  jZeno,  Maven,  Java,  Hibernate,  MySQL,  RMI,
+   Tomcat, scripting, AutoIT
+
+
+Education
+
+Masters Degree    Software  Engineer:  Faculty  of  Sciences,  Universidad
+Nacional del Centro de la  Provincia  de  Buenos  Aires  (UNICEN),  Tandil,
+Argentina (03/1998  02/2005)
+  Main Achievements: Diploma Thesis in  collaboration  with  Databases  and
+   Distributed Systems Group, TUDarmstadt, Germany A threemonth  research
+   internship at the TUDarmstadt, Germany Author  of  three  international
+   publications
+   Conceptual  Focal  Points:  distributed  systems,  eventbased  systems,
+   software engineering, architectural styles, frameworks, design patterns
+
+
+Computational Technician: Technical School Nº 2, Azul, Argentina (03/1992 
+11/1997)
+  I was ranked the best student of the institution at my graduation
+
+
+Technical Skills:
+
+  Distributed Systems Tech: J2EE  (EJB3,  EJB21,  JPA,  MDB,  JMS,  JNDI,
+   JAAS), Web Services (Axis2, JAXRPC), Web Servers (Tomcat,  IBM  Portal),
+   RMI, XML
+  Backends: JBoss, Google App Engine, IBM  WebSphere,  WebSphere  MQ,  BEA
+   Weblogic, OpenJMS, Web AppServer of SAP NetWeaver,
+  Front End Tech: GWT, SmarttGWT, JSP, HTML, Struts
+  CASE tools: IBM Rational XDE Developer, Enterprise Architect
+  Programming Languages: Java, C, C++ (MFC), Python,  ObjectiveC,  OpenGL,
+   SQL
+  IDEs: IBM WebSphere Studio, JBuilder, Eclipse,  Microsoft  Visual  Studio
+   NET, Microsoft Visual C++ 6, Borland CBuilder, KDevelop
+  Operating Systems: Mac OS, Linux, Windows
+  DBMSs: MS SQL Server 2000, Oracle, DB2, MySQL, H2, MaxDB
+  DB tools: Hibernate, DAO, JDBC, ODBC
+  Mobile: iPhone development, ObjectiveC
+  Additionally: VM experience (VMware, XEN, VirtualBox),  Linux  scripting,
+   Splunk, QTP, linux scripts, windows scripts, VoIP, Redmine

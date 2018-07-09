@@ -1,0 +1,77 @@
+William “Bill” Rodgers
+willrodgers@email.com
+000.555.1212
+300 North Street, Unit A San Jose, CA 00000
+Portfolio: [Insert URL]
+LinkedIn: www.linkedin.com/wrodgers
+GitHub: www.github.com/iOSguru
+
+Freelance iOS Developer
+Summary:
+Results-oriented iOS developer with more than three years’ experience writing highly readable, clean, maintainable source code. Developed more than 15 applications for iPhone and iPad that offer users an intuitive, friendly interface, and successfully executed more than 75 updates to existing applications for a variety of small to mid-size companies. Results include robust downloads, activations, session lengths, retention rates, revenue increases and referrals.
+Results dashboard: [Insert URL here]
+
+Relevant Skills:
+Languages: iOS 4, 5, 6 and 7, Objective-C, Groovy, Java, JavaScript, PHP, HTML, Bash
+Databases: MySQL, Oracle
+Development Software: Git, Eclipse, Xcode
+Technologies: RESTful Web, Rails, Java and JavaScript frameworks
+Servers: TomCat, JBoss, Apache
+Platforms: Mac OSX, UNIX
+Complete list: [Insert URL here] 
+
+Selected Projects and Results:
+Complete list: [Insert URL here]
+Trendy Sportswear
+Online retailer that also operates 24 brick-and-mortar stores located throughout the West.
+Developed an app that allows store and warehouse employees to manage inventory and complete order fulfillment by scanning merchandise SKUs and interfacing with e-commerce back end. Gathered specifications, consulted with UX designers, IT department, employees, executives and buyers.
+Highlights: The app featured remote device configuration by consuming RESTful Web services. Added functionality to facilitate site-to-store transactions and executed server-side integration.
+Tools: iOS 7, RESTful Web services, Java framework
+Results: Decreased order fulfillment time by 22%, decreased back orders and lost orders by 15%, increased revenue by 4%, improved customer satisfaction scores and social media feedback. 
+
+Bay Area Association of Rental Car Dealers
+Consortium of mid-size car rental firms located throughout the Bay Area.
+Developed new iPhone application that allowed visitors to check availability, compare rates, view locations and directions and make a reservation. Responsible for all phases from implementing the design, writing code, testing, debugging and deployment.
+Highlights: Built connection to the database and parsed data using JSON. Integrated core location framework allowing users to find the closest location.
+Tools: Objective-C, iOS SDK, UIKit, Oracle
+App Store: https:// iTunes.apple.com/BAcarrentals
+Results: 14,000 users downloaded the app and mid-size rental firms increased market share by 25% within the first year. “We’ve taken market share from the big three, thanks to Bill’s intuitive, user-friendly app,” John Doe, President, Bay Area Association of Rental Car Dealers
+
+San Francisco Convention and Visitors Bureau
+Developed and deployed an iPad app promoting the city to businesses and visitors.
+Highlights: Programmed a UIPageViewController subclass for navigating between articles and pages. Utilized a UICollectionView to display large 768 x 4000 pixel JPG images sliced into 768 x 100 pixel tiles. Implemented video playback throughout the app.
+Tools: iOS 6, Objective-C, UIKit, Xcode, Interface Builder, Instruments and Git
+App Store: https://iTunes.apple.com/SFvisitors
+Source Code: www.github.com/iOSgurujournal
+Results: More than 25,000 downloads, activation rate of 85% and average session lengths that exceed 20 minutes. Return rates of 62%, which resulted in a record year for the bureau in 2013.
+
+San Jose Savings and Loan
+Investigated and fixed numerous issues with existing widget functionality for an existing iOS app.
+Highlights: Troubleshot and resolved a serious issue with a third-party UI component. Incorporated auto layout so that the user interface adjusts for both 3.5” and 4.0” iPhone screens.
+Tools: iOS 6 and 7, Git
+App Store: https://iTunes.apple.com/SJSL
+Results: Improved retention rates and referrals by 38%. 
+
+Work Chronology:
+Freelance iOS Developer 2011 to present
+Sr. Java Developer, (learned iOS) Bay Area Transit (full-time) 2009 to 2011
+Java Developer, Luxury Resorts (full-time) 2007 to 2009
+Junior Software Developer, Jones and Sons Construction (full-time) 2005 to 2007
+
+Education: B.S. Computer Science, San Jose State 
+
+Relevant Courses and Training:
+iOS programming I, II, III
+Mac OS X for Developers
+App Store for Programmers
+Multimedia for iOS
+iOS Core OS Frameworks
+iOS Multimedia Programming
+iOS and SQL Technologies
+W3C and WWW Standards
+
+Publications:
+
+Blog: Tales of an iOS Guru, www.iOStales.com
+iOS Tutorial: Contributed to chapter six on automated testing www.amazon.com/iOS6development
+

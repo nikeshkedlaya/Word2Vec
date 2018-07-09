@@ -1,0 +1,54 @@
+Emily Michaels
+25 Surrey Lane, Atlanta, GA 11111
+
+E: emichaels@anymail P: 555-437-2891
+
+Professional Summary
+Analytical and detail oriented Android app developer professional with stellar communication skills. Adept at bringing all team members together to reach a common goal on time and under budget. Conceptualizing app solutions with the latest technology, design theory, and a large dose of creativity. Committed to viable and easily functional app solutions for clients.
+
+Skills
+Expert at Java SDK design functionality, including the full activity lifecycle
+Clear and concise writer of communications and development documentation
+Knowledgeable about back-end development and documentation
+Enthusiastic facilitator for client solutions
+Analytical user of GIT version control implementation
+Consummate collaborator with clients, management, and team members
+Work Experience
+Junior Android Developer2014 – Present
+
+
+Respond to client needs for applications with an eye to the most feasible and effective solutions.
+Coordinate with team members to create client apps in a coordinated and timely manner.
+Ensure that apps are tested to meet total performance requirements.
+Optimize the interfacing of the apps with a variety of systems to ensure flexible and agile use.
+
+
+Associate Android Developer2012 – 2014
+
+
+Utilized advanced functions of the Java software development kit (SDK) in order to optimize the flexibility of apps to different mobile devices.
+Recorded exact details of errors during testing for further remediation.
+Checked on all source code to ensure usability by development staff.
+Created increased mobile adaptability for current apps in order to extend marketability.
+
+
+IT Support Associate2011 – 2012
+
+Provided phone support for employees who had trouble with their Java software functions.
+Retrieved system information for users.
+Compiled a user-friendly employee guide for interfacing with Java.
+
+
+Internet Fluency Teacher2009-2011
+
+Taught seniors to be fluent in using the internet through a community education program.
+Interpreted curriculum to be presented to classes.
+Generated student enthusiasm for internet use.
+
+Education
+Certified Associate Android Developer2012
+Bachelor of Science in Computer Science2011
+Georgia Institute of Technology
+Hobbies and Interests
+I like to use my app development skills for good causes. Recently, I developed the entire donation pickup app for the Bikes for Kids charity. To stay active, I enjoy jogging in the fall and winter, and kayaking and paddle boarding during the summertime. I also enjoy dogs, so I volunteer twice a year as a foster home for dogs awaiting adoption. During the three-month commitment, I teach the dogs social skills, how to walk on a leash, and how to adapt to a home routine.
+

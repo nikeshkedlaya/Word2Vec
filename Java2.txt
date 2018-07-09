@@ -1,0 +1,91 @@
+
+Back End Developer resume
+
+Maxine Curry
+Dayjob Limited
+The Big Peg
+120 Vyse Street
+Birmingham B18 6NF
+England
+T: 0044 121 638 0026
+E: info@dayjob.com
+
+
+PERSONAL SUMMARY
+
+Maxine has a burning desire to put together well-written code that helps to create advanced applications which are fit for purpose, functionally correct and meets the user’s precise needs. She has a track record of using modern technologies to bring software products to life. Her key strengths include being able to use web based systems that create a highly interactive user experience. On a personal level she is loaded with energy and passion. During her career she has previously worked for well-known established companies as well as newly launched start-ups. Right now she would like to join a company where there is a culture of encouragement, respect and teamwork.
+
+CAREER HISTORY
+
+BACK END DEVELOPER - Start Date - Present
+Employers name - Location
+Responsible for playing a key role in the designing, building, maintaining and testing of back-end based applications.
+
+Duties;
+
+Working with other developers in delivering internal and external back-end applications.
+Supporting the front-end development team in every way.
+Making suggestions on how to improve current back-end applications.
+Writing clean and maintainable code.
+Working with remote teams on complex issues.
+Involved in every aspect of the application development process, from early design to testing and launch of the product.
+Co-ordinating with other developers on the delivery of application code.
+Improving existing scripts.
+Reporting directly to the head of the web development team.
+Coming up with robust solutions that meet client requirements.
+Interacting with clients and stakeholders on a daily basis.
+Developing new functionality on demand.
+Extending business logic within existing back-end services.
+Mentoring junior developers and monitoring their work.
+Creating new products and developing existing products.
+Setting up and maintaining Linux servers.
+Working with testing teams to identify and solve both development and live issues.
+Communicating with key decision makers within the company on a daily basis.
+
+JOB TITLE - Start Date - End Date
+Employers name - Location
+
+JOB TITLE - Start Date - End Date
+Employers name - Location
+
+
+KEY SKILLS AND COMPETENCIES
+
+Professional
+
+Knowledge of multiple programming languages.
+Excellent coding skills.
+Experience using SOLID principles with Object-Oriented programming.
+Real team player who can get along with people from all backgrounds.
+Able to quickly learn new technologies.
+Possess a degree in Computer Science and further qualifications in software development.
+Good knowledge of Relational Databases, especially MySQL.
+Previous exposure to Perl, C++, PHP and web server applications such as Apache, Nginx and Lighttp.
+
+Personal
+
+Can work with a high level of responsibility and autonomy.
+Hands on and not afraid to get hands dirty.
+Available for immediate start.
+Aptitude to learn new things quickly and effectively.
+Can perform well in a fast-paced and deadline driven environment.
+
+AREAS OF EXPERTISE
+
+Code documenting
+Project management
+Data storage
+Problem identification
+User acceptance
+
+
+ACADEMIC QUALIFICATIONS
+
+University name  -  Degree details               Study Dates
+College name      -  Qualifications                Study Dates
+School name       -  Subjects / Grades          Study Dates
+
+
+REFERENCES
+
+Available on request.

@@ -1,0 +1,37 @@
+Jason Firkins
+123 Main Street, San Francisco, CA 94122
+
+Home: 000-000-0000 | Cell: 000-000-0000
+
+email@example.com
+
+Professional Summary
+Highly adaptable and experienced SQL Database Developer with a proven track record of high client satisfaction. Adept at adapting work pace to evolving client deadlines. Author of several articles in refereed professional publications.
+
+Core Qualifications
+Superior ability to support and develop analysis solutions and data transformations
+Excellent ability to develop and implement data and reporting solutions
+Profound understanding of SDLC (software development life cycle)
+High achievement record in process quality improvement and efficient data solutions management
+Superb maintenance of all working relationships
+Comprehensive knowledge of computer languages
+Experience
+SQL Database Developer6/1/2012 – Present
+State of MinnesotaSt. Paul, MN
+Designed and implemented stored procedures views and other application database code objects.
+Maintained SQL scripts indexes and complex queries for analysis and extraction.
+Performed quality testing and assurance for SQL servers.
+Worked with stakeholders developers and production teams across units to identify business needs and solution options.
+Ensured best practice application to maintain security and integrity of data.
+5/1/2009 – 5/1/2012
+Avicorp Inc.Hibbing, MN
+Provided support for all operations focusing on integration of new products and services.
+Liaised with management and development to improve overall access to information.
+Recommended resolutions ensuring optimal performance.
+Assisted in development and execution of data service disaster recovery plans.
+Education
+Bachelor’s Degree – Computer Science2008
+University of MinnesotaMinneapolis, MN
+Associate’s Degree – Computer Science2006
+North Hennepin Community CollegeMinneapolis, MN
+There are plenty of opportunities to land a Sql Database Developer job position, but it won’t just be handed to you. Crafting a Sql Database Developer resume that catches the attention of hiring managers is paramount to getting the job, and LiveCareer is here to help you stand out from the competition.

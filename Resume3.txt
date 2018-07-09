@@ -1,0 +1,63 @@
+Chetan HS
+To learn and work effectively in the company and be able to deliver my best at all the
+time.
+Dharwad, Karnataka
+chetan2292_sjb@indeedemail.com - +91 8618436231
+To learn and work effectively in the company and be able to deliver my best at all the time.
+Professional summary
+Having One years of experience in IT industry which includes Design, Development and
+Testing of the product.
+ Hands on experience in front-end technologies on HTML5, CSS, JAVASCRIPT and
+BOOTSTRAP.
+ Experience in writing PERL Script.
+ Hands on experience in RDBMS.
+ Excellence in developing the responsive TEMPLETES.
+ Strong Knowledge on Angular JS.
+Willing to relocate to: Pune, Maharashtra - Bengaluru, Karnataka
+WORK EXPERIENCE
+Software Engineer
+Informatics Publishing Ltd - Bengaluru, Karnataka -
+2017-03 - Present
+Position: Software Engineer.
+Company: Informatics Publishing ltd.
+Technology: PERL, HTML, CSS, JAVASCRIPT, BOOTSTRAP, MYSQL.
+ Overall "One year" of experience in designing and problem solving things in the Library
+management service.
+Roles and responsibilities are:
+ Front-end development using HTML5, CSS, JAVASCRIPT and BOOTSTRAP.
+ Generating reports using SQL.
+ Fetching database records and developing necessary modules using Perl language.
+ Solving technical bugs and issues and
+ Having knowledge in Linux platform.
+Academic Project details
+Rents at a finger tip:
+Project description:
+The aspects to be accomplished through the project is to search, suggest the rent-able space at the
+right time to right people.
+Technology: PHP, WAMP
+Database: MYSQL
+Profile connectivity:
+Project description:
+The main aim of this project is to make connectivity from one user profile to another user profile
+across the world.
+Technology: JAVA, JSP, JAVASCRIPT, HTML, CSS
+Database: HSQLDB
+EDUCATION
+Master in Computer Application in Computer Application
+Dr.AIT college (Bangalore) - Bengaluru, Karnataka
+Bachelor of Computer Application in Computer Application
+Oxford college (Hubli) - Hubli, Karnataka
+SKILLS
+CSS, Databases, ECLIPSE, HTML5, JAVA, Angularjs
+ADDITIONAL INFORMATION
+Technical skills
+Language: C, JAVA, PHP.
+Operating System: LINUX, windows.
+Databases: MYSQL.
+Web Languages: HTML5, CSS, BOOTSRAP, JAVASCRIPT, JQUERY, ANGULAR JS.
+Server and IDE
+ECLIPSE
+TOMCAT
+Strength
+Quick learner and can work in rapidly changing environment
+Hardworking and flexible in work

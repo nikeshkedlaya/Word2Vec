@@ -1,0 +1,46 @@
+Dennis C. Nettleton
+1042 Hillside Street
+Mesa, AZ 85201
+Phone: 480-461-2283
+Email: dcnettleton@anymail.com
+Career Objective:
+
+To obtain an iOS developer position with “Vantrix” where my talent and experience can be used in developing innovative and user-friendly mobile applications.
+
+Summary of Skills:
+
+Experience in designing and developing mobile applications
+Experience in developing application on iOS
+Proficient in Core Data, CoreFoundation, Security, Webkit, and UIKit
+Skilled in using xCode for application development
+Experience in developing test automation frameworks and unit testing frameworks
+Extensive knowledge of Objective C, iOS SDK, REST, XML and JSON
+Expert in solving technical issues affecting iOS applications
+Work Experience:
+
+Apple Developer
+Walter Solutions, Mesa, AZ
+August 2012 - Present
+
+Design and develop mobile applications using iOS SDK
+Coordinate with cross-functional teams for customer support
+Take initiative in developing application from concept to end delivery and support
+Review and solve technical problems in existing applications
+Analyze users requirements for using iPhones, iPad, iPod and plan applications development accordingly
+Develop and define advanced feature functionality to interface with Apple devices
+Provide technical support to enterprise customers and maintain business relationships
+Apple Developer
+Ocean Supply Company, Mesa, AZ
+February 2010 - July 2012
+
+Performed unit test code and verified sturdiness, reliability, and usability of applications
+Improvised application performance by identifying and fixing bug
+Discovered, evaluated, and implemented new technologies and enhanced software development process
+Wrote quality code for yielding maximum efficiency and functionality
+Designed, built, and modified new and existing mobile applications
+Developed third-party iOS frameworks and built quality iOS applications
+Education:
+
+Bachelor's Degree in Computer Science
+Apple College, Mesa, AZ
+2009

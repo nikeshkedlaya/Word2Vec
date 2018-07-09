@@ -1,0 +1,47 @@
+Kip Redmond
+1 Main Street, New Cityland, CA 91010
+
+Home: (555) 322-7337 | Cell: 000-000-0000
+
+example-email@example.com
+
+Profile
+Advanced Database Developer able to build and maintain complex support systems and website databases for customer use. Technically savvy with dedicated and detail-oriented nature. Innate leadership communication and time management abilities.
+
+Core Qualifications
+Strong programming skills
+Database servers
+Patch management
+Information security
+Project coordination
+UNIX/LINUX
+Document control
+Capacity and scalability planning
+Optimizing and performance tuning
+Testing
+Professional Experience
+Database Developer9/1/2012 – Current
+Premier SoftwareNew Cityland, CA
+Serve as sole database developer for Sybase Oracle and MS SQL running on various operating systems.
+Create custom scripts triggers and storage procedures.
+Import client data and set up databases based on load and program requirements.
+Spearhead code review quality assurance and acceptance processes.
+Database Developer3/1/2008 – 8/1/2012
+Mitchum Designs LLCNew Cityland, CA
+Gathered user requirements and designed appropriate database solutions.
+Troubleshot system errors and performance issues.
+Collaborated with programmers and quality assurance testers to ensure professional deliveries.
+Database Developer5/1/2005 – 2/1/2008
+Sequoia Software ServicesNew Cityland, CA
+Designed and ran custom SQL database queries.
+Tested system performance and capacity to ensure requirements were met.
+Assisted programmers in implementing code changes and server patches.
+Education
+Bachelor of Science – Computer Science2005
+University of CaliforniaNew Cityland, CA
+Certifications
+MCSA: SQL Server Certification
+Oracle Database SQL Expert
+
+Technical Skills
+SQL MySQL SQL Server Oracle PHP and Java
