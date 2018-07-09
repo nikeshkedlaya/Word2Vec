@@ -27,7 +27,7 @@ def prepare_list(resume_directory):
     return list_to_train
 
 
-training_list = prepare_list("D:/Analytics/Python/Resume/Resume/")
+training_list = prepare_list("path_to_files_location_directory")
 
 # Create a model. Passing prepared list from the files
 # This model has to be saved in a file using pickel. We dont want to train the same dataset again and again
