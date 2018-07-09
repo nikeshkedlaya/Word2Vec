@@ -2,7 +2,7 @@ import gensim
 import os
 from nltk.corpus import stopwords
 
-# nltk stopward. You can have a list of your own stopward if you dont want to use from nltk
+# nltk stopward. You can have a list of your own stopwords if you dont want to use from nltk
 stop_words = set(stopwords.words('english'))
 
 """
